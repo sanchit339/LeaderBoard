@@ -6,9 +6,8 @@
 - Main Card (Leaders).
 - Cards (Containders).
 
-![Alt text](assets/images/screenshot.jpg)
-
-
+<!-- ![Alt text](assets/images/screenshot.jpg) -->
+<img src="assets/images/screenshot.jpg" alt="Alt text" width="300" />
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
